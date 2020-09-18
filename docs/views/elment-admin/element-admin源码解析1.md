@@ -13,13 +13,11 @@ element-admin源码分析
 
 <!-- more -->
 
-## 项目简介
+## 本节内容
 
-本项目由[vuepress](https://vuepress.vuejs.org/zh/) 驱动，使用主题来源[vuepress-theme-reco](https://vuepress-theme-reco.recoluan.com/)
+ 分析elment-admin的目录
 
-## 使用方法
-
-### 构建并运行项目
+### 目录分析
 
 ```
 
